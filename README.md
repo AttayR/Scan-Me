@@ -23,7 +23,7 @@ A Flutter application for scanning and generating QR codes. This app enables use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/qr-code-scanner-app.git
+   git clone git@github.com:AttayR/Scan-Me.git
    ```
 2. Navigate to the project directory:
    ```bash
